@@ -1,0 +1,82 @@
+[
+  {
+    "DeskId": 1,
+    "In-Time": "9:00",
+    "Out-Time": "10:00"
+  },
+  {
+    "DeskId": 2,
+    "In-Time": "10:00",
+    "Out-Time": "11:00"
+  },
+  {
+    "DeskId": 3,
+    "In-Time": "12:00",
+    "Out-Time": "13:00"
+  },
+  {
+    "DeskId": 4,
+    "In-Time": "13:00",
+    "Out-Time": "14:00"
+  },
+  {
+    "DeskId": 5,
+    "In-Time": "11:00",
+    "Out-Time": "12:00"
+  },
+  {
+    "DeskId": 6,
+    "In-Time": "8:00",
+    "Out-Time": "9:00"
+  },
+  {
+    "DeskId": 7,
+    "In-Time": "5:00",
+    "Out-Time": "5:00"
+  },
+  {
+    "DeskId": 8,
+    "In-Time": "23:00",
+    "Out-Time": "0:00"
+  },
+  {
+    "DeskId": 9,
+    "In-Time": "12:00",
+    "Out-Time": "13:00"
+  },
+  {
+    "DeskId": 10,
+    "In-Time": "4:00",
+    "Out-Time": "5:00"
+  },
+  {
+    "DeskId": 11,
+    "In-Time": "9:00",
+    "Out-Time": "10:00"
+  },
+  {
+    "DeskId": 12,
+    "In-Time": "4:00",
+    "Out-Time": "5:00"
+  },
+  {
+    "DeskId": 13,
+    "In-Time": "7:00",
+    "Out-Time": "8:00"
+  },
+  {
+    "DeskId": 14,
+    "In-Time": "2:00",
+    "Out-Time": "3:00"
+  },
+  {
+    "DeskId": 15,
+    "In-Time": "15:00",
+    "Out-Time": "16:00"
+  },
+  {
+    "DeskId": 16,
+    "In-Time": "6:00",
+    "Out-Time": "7:00"
+  }
+]
